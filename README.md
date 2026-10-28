@@ -1,6 +1,6 @@
 # README - Data Findings
 
-### Core Findings from Part A Analysis
+### Core Findings from Analysis
 
 1. **Service Type Delays**
    The service type delayed most often is **Express** with a delay rate of **0.4897**.
